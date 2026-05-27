@@ -1,5 +1,5 @@
 # MOM6-COBALT-NE-Atlantic-Shelf
-Validation of MOM6-COBALT model in the Atlantic Shelf and identifying major OA and DO events
+Validation of MOM6-COBALT model in the Atlantic Shelf and identifying major OA and DO events.
 “This repository is a scientific product and is not official communication of the National Oceanic and
 Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code is
 provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of
